@@ -1,0 +1,49 @@
+body
+    {
+       display: flex;
+       flex-direction: column-reverse;
+       height: 100vh;
+       overflow: hidden;
+     }
+
+#navigation
+    {
+       position: relative;
+       padding: 15px 10px;
+       padding-bottom: 5px;
+       text-align: right;
+       user-select: none;
+       overflow: hidden;
+       background-color: #FFF;
+       border-bottom: 1px solid #555;
+       box-shadow: 0 1px 7px -2px #000;
+     }
+#main
+    {
+       height: 100%;
+       overflow-y: auto;
+       scrollbar-width: thin;
+     }
+
+#main .step
+    {
+       position: relative;
+       height: 100%;
+       padding: 10px;
+       box-sizing: border-box;
+     }
+
+[name="landing"]
+    {
+       display: flex;
+       align-items: center;
+       justify-content: center;
+     }
+[name="landing"] .banner
+    {
+       display: flex;
+       flex-direction: column;
+       position: relative;
+       box-sizing: border-box;
+       text-align: center;
+     }

@@ -1,0 +1,12 @@
+[
+   {
+      "name": "landing",
+      "nested":
+          [
+             {
+                "class": "motto",
+                "text": "La&#x300 ou&#x300 vos imaginations prennent vie."
+              }
+           ]
+    }
+ ]

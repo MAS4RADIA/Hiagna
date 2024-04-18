@@ -1,0 +1,22 @@
+[
+   {
+      "name": "intro",
+      "text": "We take a few variables into account before we can set any price on your order."
+    },
+   {
+      "name": "input",
+      "text": "First off is your input. As a customer, you're allowed a crectain freedom in the way you make your order. Ranging from a simple, but understandable, description of what you want to a complete mockup. Or even a working application you want us to tweak or fix. Just know that we do not support any kind of plagiarism or copycatting. You can choose a few designs or features from an app but not enough to qualify as plagiarism."
+    },
+   {
+      "name": "volume",
+      "text": "Second is the volume of your app."
+    },
+   {
+      "name": "complexity",
+      "text": "Third and last is the complexity. Depending on its complexity, the price could drastically change."
+    },
+   {
+      "name": "final",
+      "text": "We approximate the price of the final product taking all that into consideration. But it all boils down to this; how long will it take us to do it. And how much work will we put into it."
+    }
+ ]

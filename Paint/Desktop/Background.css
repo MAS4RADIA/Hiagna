@@ -1,0 +1,32 @@
+[name="landing"]
+    {
+       background-color: #37F;
+     }
+[name="description"]
+    {
+       background-color: red;
+     }
+[name="formulation"]
+    {
+       background-color: #337;
+     }
+[name="magic"]
+    {
+       background-color: #771;
+     }
+[name="evaluation"]
+    {
+       background-color: #F7A;
+     }
+[name="adjustment"]
+    {
+       background-color: crimson;
+     }
+[name="payment"]
+    {
+       background-color: #073;
+     }
+[name="final"]
+    {
+       background-color: #333;
+     }

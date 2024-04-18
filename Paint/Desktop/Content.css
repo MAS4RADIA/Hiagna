@@ -1,0 +1,52 @@
+#navigation .link
+    {
+       margin: 0 5px;
+       cursor: pointer;
+     }
+#navigation :where(.link:hover, .active.link)
+    {
+       color: #055;
+     }
+#navigation .pointer
+    {
+       position: absolute;
+       bottom: 0;
+       border-radius: 50px;
+       border: 1px solid #055;
+       box-sizing: border-box;
+       transition: all .6s;
+     }
+#navigation #language_select
+    { 
+       position: absolute;
+       left: 5px;
+       border: none;
+       background-color: transparent;
+     }
+
+[name="landing"] .banner .name
+    {
+       font-size: 50px;
+       color: #FF5738;
+       box-sizing: border-box;
+       text-transform: uppercase;
+       font-family: "Local AtomicAge";
+       text-shadow: 0 1px 0 #000, -1px 0 0 #000,
+         0 -1px 0 #000, 1px 0 0 #000;
+      }
+[name="landing"] .banner .logo
+    {
+       display: block;
+       width: 400px;
+       height: 400px;
+       margin: -32px 0;
+       background: url("/Shoot/logo_big.png");
+       background-position: center;
+       background-size: cover;
+     }
+[name="landing"] .banner .motto
+    {
+       font-size: 20px;
+       font-family: "Local AtomicAge";
+       box-sizing: border-box;
+     }

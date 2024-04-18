@@ -1,0 +1,7 @@
+[
+   { "content": "Acceuil", "name": "home" },
+   { "content": "Mise en prix", "name": "pricing" },
+   { "content": "Vitrine", "name": "showcase" },
+   { "content": "E&#x301quipe", "name": "team" },
+   { "content": "Commande", "name": "order" }
+ ]

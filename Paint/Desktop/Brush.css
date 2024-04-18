@@ -1,0 +1,50 @@
+@import "/Paint/Desktop/Error.css";
+@import "/Paint/Desktop/Structure.css";
+@import "/Paint/Desktop/Background.css";
+@import "/Paint/Desktop/Content.css";
+
+@font-face
+    {
+       font-family: "Local Aboreto";
+       src: url("/Carve/Aboreto/Aboreto-Regular.ttf");
+     }
+@font-face
+    {
+       font-family: "Local AdventPro";
+       src: url("/Carve/Advent_Pro/AdventPro-Regular.ttf");
+     }
+@font-face
+    {
+       font-family: "Local AtomicAge";
+       src: url("/Carve/Atomic_Age/AtomicAge-Regular.ttf");
+     }
+@font-face
+    {
+       font-family: "Local Aubrey";
+       src: url("/Carve/Aubrey/Aubrey-Regular.ttf");
+     }
+@font-face
+    {
+       font-family: "Local Bellota";
+       src: url("/Carve/Bellota/Bellota-Regular.ttf");
+     }
+@font-face
+    {
+       font-family: "Local BellotaText";
+       src: url("/Carve/Bellota_Text/BellotaText-Regular.ttf");
+     }
+@font-face
+    {
+       font-family: "Local Roboto";
+       src: url("/Carve/Roboto/Roboto-Regular.ttf");
+     }
+
+body
+    {
+       margin: 0;
+     }
+*
+    {
+       font-size: 100%;
+       font-family: serif;
+     }

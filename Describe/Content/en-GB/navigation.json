@@ -1,0 +1,7 @@
+[
+   { "content": "Home", "name": "home" },
+   { "content": "Pricing", "name": "pricing" },
+   { "content": "Showcase", "name": "showcase" },
+   { "content": "Team", "name": "team" },
+   { "content": "Order", "name": "order" }
+ ]

@@ -1,0 +1,65 @@
+[
+   {
+      "nature": "SECTION",
+      "class": "step",
+      "name": "landing",
+      "nested":
+          [
+             {
+                "nature": "DIV",
+                "class": "banner",
+                "nested":
+                    [
+                       {
+                          "nature": "SPAN",
+                          "class": "name",
+                          "id": "app_name"
+                        },
+                       {
+                          "nature": "SPAN",
+                          "class": "logo"
+                        },
+                       {
+                          "nature": "SPAN",
+                          "class": "motto"
+                        }
+                     ]
+              }
+           ]
+    },
+   {
+      "nature": "SECTION",
+      "class": "step",
+      "name": "description"
+    },
+   {
+      "nature": "SECTION",
+      "class": "step",
+      "name": "formulation"
+    },
+   {
+      "nature": "SECTION",
+      "class": "step",
+      "name": "magic"
+    },
+   {
+      "nature": "SECTION",
+      "class": "step",
+      "name": "evaluation"
+    },
+   {
+      "nature": "SECTION",
+      "class": "step",
+      "name": "adjustment"
+    },
+   {
+      "nature": "SECTION",
+      "class": "step",
+      "name": "payment"
+    },
+   {
+      "nature": "SECTION",
+      "class": "step",
+      "name": "final"
+    }
+ ]

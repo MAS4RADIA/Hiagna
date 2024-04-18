@@ -1,0 +1,40 @@
+[
+   {
+      "name": "landing",
+      "nested":
+          [
+             {
+                "class": "motto",
+                "text": "Where we bring your ideas to life."
+              }
+           ]
+    },
+   {
+      "name": "description",
+      "text": "We give soul to your ideas and bring them to life."
+    },
+   {
+      "name": "formulation",
+      "text": "Describe your wish."
+    },
+   {
+      "name": "magic",
+      "text": "We work our magic and bring it to you."
+    },
+   {
+      "name": "evaluation",
+      "text": "You evaluate the product."
+    },
+   {
+      "name": "adjustment",
+      "text": "We make adjustments if necessary."
+    },
+   {
+      "name": "payment",
+      "text": "We receive our pay."
+    },
+   {
+      "name": "final",
+      "text": "You get your good."
+    }
+ ]
